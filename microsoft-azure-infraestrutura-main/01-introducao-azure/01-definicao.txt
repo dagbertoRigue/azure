@@ -1,0 +1,18 @@
+NIST - National Institute of Standards and Technology define Cloud Computing : https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf
+
+"Cloud computing is a model for enabling ubiquitous, convenient, on-demand network access to a shared pool of configurable computing resources (e.g., networks, servers, storage, applications, and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction. This cloud model is composed of five essential characteristics, three service models, and four deployment models."
+
+"A computação em nuvem é um modelo para permitir o acesso ubíquo, conveniente e acesso on-demand para um pool compartilhado de recursos de computação configuráveis ​​(por exemplo, redes, servidores, armazenamento, aplicativos e serviços) que pode ser rapidamente provisionado e liberado com o mínimo de esforço de gerenciamento ou interação do provedor de serviços. Este modelo de nuvem é composto por cinco características essenciais, três modelos de serviço e quatro modelos de implantação."
+
+
+Caracteristicas essenciais (5):
+Autoatendimento sob demanda, amplo acesso à rede, agrupamento de recursos, elasticidade rápida, serviço medido.
+
+Modelos de serviço (3):
+Software as a Service (SaaS), Plataforma como serviço (PaaS), Infraestrutura como serviço (IaaS).
+
+Modelos de implantação (4):
+Nuvem privada, nuvem da comunidade, nuvem pública, nuvem híbrida.
+
+
+...
